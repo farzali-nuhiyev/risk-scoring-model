@@ -1,0 +1,14 @@
+# Database credentials — never upload
+oracle_credentials.txt
+oracle_credentials.json
+db_config.json
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Large generated source data — keep only small samples on GitHub
+data/raw/
