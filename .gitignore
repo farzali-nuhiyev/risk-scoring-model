@@ -12,3 +12,9 @@ __pycache__/
 
 # Large generated source data â€” keep only small samples on GitHub
 data/raw/
+# Intermediate generation-only samples — do not publish
+data/samples/rs_contract_profile_base_sample.csv
+data/samples/rs_mkr_application_inquiry_history_base_sample.csv
+data/samples/rs_mkr_application_liabilities_base_sample.csv
+data/samples/rs_mkr_application_liability_history_base_sample.csv
+data/samples/rs_mkr_application_master_base_sample.csv
